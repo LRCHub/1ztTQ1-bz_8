@@ -1,0 +1,107 @@
+# FLOW GLOW – PUNISHER
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Hey,
+From the FLOW to the GLOW
+KEEEEEP GLOWING!!!!!
+Duh-Duh-Duh
+Dally-Tik-Tik-Dally-Dally
+What's going on?
+Duh-Duh-Duh
+Dally-Tik-Tik-Dally-Dally
+We're the PUNISHERS
+Duh-Duh-Duh
+Dally-Tik-Tik-Dally-Dally
+Let's get it on
+Duh-Duh-Duh
+Dally-Tik-Tik-Dally-Dally
+We get some, ALL.
+Don't judge by looks anymore
+It's all a lie, it's alright
+(It's alright yeah)
+どこに武器を隠し持っているか
+(Ain't nobody, ain't nobody, ain't nobody knows)
+誰もがほら 先見た方
+信じきってる
+What's the deal?
+見せかけの peace 何も疑わずに
+(You good with that? 狂い出すこの魂)
+霧がかった世界
+繋がれた鎖
+すぐに分からせる
+(Spit it out!!)
+Duh-Duh-Duh
+Dally-Tik-Tik-Dally-Dally
+What's going on?
+Duh-Duh-Duh
+Dally-Tik-Tik-Dally-Dally
+We're the PUNISHERS
+Duh-Duh-Duh
+Dally-Tik-Tik-Dally-Dally
+Let's get it on
+Duh-Duh-Duh
+Dally-Tik-Tik-Dally-Dally
+We get some, ALL.
+The only one who can lock me up is me
+(Please choose from 1 to 5)
+今分かる予言の Answer
+(Please choose from 1 to 5)
+独壇場 傍観しようか 全員
+このダンジョン のような Khaos で Play
+全部任せて 面食らった Face がお似合いさ
+ハマれねぇ なら暴れ回れ Yeah
+(Are you ready?)
+This is my way,
+Get outta my way
+轟かせる
+前頭前野アチチって溶けちゃうくらい ヤバい
+Pushback 食らいな Bang!
+真似できない?
+ならその Rule 間違ってるんじゃない?
+Can't stop me FLOMIE とアガれ PUNISHER
+危険な秘密も
+すべて知ってるわ
+冗談?な訳ない
+(Spit it out!!)
+Duh-Duh-Duh
+Dally-Tik-Tik-Dally-Dally
+What's going on?
+Duh-Duh-Duh
+Dally-Tik-Tik-Dally-Dally
+We're the PUNISHERS
+Duh-Duh-Duh
+Dally-Tik-Tik-Dally-Dally
+Let's get it on
+Duh-Duh-Duh
+Dally-Tik-Tik-Dally-Dally
+We get some, ALL.
+The only one who can lock me up is me
+(Please choose from 1 to 5)
+今分かる予言の Answer
+(Please choose from 1 to 5)
+(Duh-Duh-Duh)
+(Duh-Duh-Duh)
+誰もいないみたいな 静かな夜
+逸れて So what?
+What should I believe, I believe in life
+夢見てたのは 鮮やかな Daylight
+どんな結末も背負う覚悟で Let's dive
+Duh-Duh-Duh
+Dally-Tik-Tik-Dally-Dally
+What's going on?
+Duh-Duh-Duh
+Dally-Tik-Tik-Dally-Dally
+We're the PUNISHERS
+Duh-Duh-Duh
+Dally-Tik-Tik-Dally-Dally
+Let's get it on
+Duh-Duh-Duh
+Dally-Tik-Tik-Dally-Dally
+We get some, ALL.
+The only one who can lock me up is me
+(Please choose from 1 to 5)
+今分かる予言の Answer
+(Please choose from 1 to 5)
+```
