@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "PUNISHER",
+  "base_artist": "FLOW GLOW",
+  "createdAt": "2026-02-08T20:38:41.615294Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Punisher",
+      "artist": "U.D.O.",
+      "has_synced": true,
+      "path": "select/01_The_Punisher_U.D.O..lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Punisher",
+      "artist": "Exciter",
+      "has_synced": false,
+      "path": "select/02_The_Punisher_Exciter.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Punisher",
+      "artist": "Reel Big Fish",
+      "has_synced": true,
+      "path": "select/03_Punisher_Reel_Big_Fish.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Punisher",
+      "artist": "Phoebe Bridgers",
+      "has_synced": true,
+      "path": "select/04_Punisher_Phoebe_Bridgers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Punisher (Copycat Killer Version) [feat. Rob Moose]",
+      "artist": "Phoebe Bridgers",
+      "has_synced": true,
+      "path": "select/05_Punisher_(Copycat_Killer_Version)_[feat._Rob_Moose]_Phoebe_Bridgers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Punisher (Copycat Killer Version)",
+      "artist": "Phoebe Bridgers",
+      "has_synced": true,
+      "path": "select/06_Punisher_(Copycat_Killer_Version)_Phoebe_Bridgers.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Punisher",
+      "artist": "Veil of Maya",
+      "has_synced": false,
+      "path": "select/07_Punisher_Veil_of_Maya.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Slow Motion [The Punisher OST]",
+      "artist": "Nickelback",
+      "has_synced": true,
+      "path": "select/08_Slow_Motion_[The_Punisher_OST]_Nickelback.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Punisher (Copycat Killer Version)",
+      "artist": "Phoebe Bridgers, Rob Moose",
+      "has_synced": true,
+      "path": "select/09_Punisher_(Copycat_Killer_Version)_Phoebe_Bridgers,_Rob_Moose.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Punisher",
+      "artist": "Eric B. & Rakim",
+      "has_synced": true,
+      "path": "select/10_The_Punisher_Eric_B._&_Rakim.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Punisher",
+      "artist": "Stuck",
+      "has_synced": false,
+      "path": "select/11_The_Punisher_Stuck.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Step Up (Punisher Version)",
+      "artist": "Drowning Pool",
+      "has_synced": false,
+      "path": "select/12_Step_Up_(Punisher_Version)_Drowning_Pool.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "PUNISHER",
+      "artist": "Brojob feat. John Robert C",
+      "has_synced": true,
+      "path": "select/13_PUNISHER_Brojob_feat._John_Robert_C.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Punisher (Feat. John Robert C)",
+      "artist": "Brojob",
+      "has_synced": true,
+      "path": "select/14_Punisher_(Feat._John_Robert_C)_Brojob.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "John Wick Vs the Punisher",
+      "artist": "Daddyphatsnaps",
+      "has_synced": false,
+      "path": "select/15_John_Wick_Vs_the_Punisher_Daddyphatsnaps.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PUNISHER",
+      "artist": "FLOW GLOW",
+      "has_synced": false,
+      "path": "select/pl_01_PUNISHER_FLOW_GLOW.txt"
+    }
+  ]
+}
